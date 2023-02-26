@@ -1,0 +1,8 @@
+C:\Users\alif1\OneDrive\Desktop\C Sharp\Practical Evidence\CandidateRepositoryPattern\CandidateRepositoryPattern\obj\Debug\CandidateRepositoryPattern.csproj.AssemblyReference.cache
+C:\Users\alif1\OneDrive\Desktop\C Sharp\Practical Evidence\CandidateRepositoryPattern\CandidateRepositoryPattern\obj\Debug\CandidateRepositoryPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\alif1\OneDrive\Desktop\C Sharp\Practical Evidence\CandidateRepositoryPattern\CandidateRepositoryPattern\obj\Debug\CandidateRepositoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\alif1\OneDrive\Desktop\C Sharp\Practical Evidence\CandidateRepositoryPattern\CandidateRepositoryPattern\bin\Debug\CandidateRepositoryPattern.exe.config
+C:\Users\alif1\OneDrive\Desktop\C Sharp\Practical Evidence\CandidateRepositoryPattern\CandidateRepositoryPattern\bin\Debug\CandidateRepositoryPattern.exe
+C:\Users\alif1\OneDrive\Desktop\C Sharp\Practical Evidence\CandidateRepositoryPattern\CandidateRepositoryPattern\bin\Debug\CandidateRepositoryPattern.pdb
+C:\Users\alif1\OneDrive\Desktop\C Sharp\Practical Evidence\CandidateRepositoryPattern\CandidateRepositoryPattern\obj\Debug\CandidateRepositoryPattern.exe
+C:\Users\alif1\OneDrive\Desktop\C Sharp\Practical Evidence\CandidateRepositoryPattern\CandidateRepositoryPattern\obj\Debug\CandidateRepositoryPattern.pdb
